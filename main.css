@@ -31,6 +31,9 @@ body {
     border-radius: 1rem;
     background: rgba(255, 255, 255, .7);
     backdrop-filter: blur(2px);
+    position: absolute;
+    -webkit-backdrop-filter: blur(2px);
+
 }
 
 .input-wrapper {

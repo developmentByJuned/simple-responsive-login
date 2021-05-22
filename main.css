@@ -22,8 +22,8 @@ body {
     height: 60%;
     max-width: 300px;
     min-width: 200px;
-    min-height:300px;
-    max-height:400px;
+    min-height:400px;
+    max-height:450px;
     display: flex;
     flex-direction: column;
     justify-content: center;
